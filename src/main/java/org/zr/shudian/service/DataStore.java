@@ -28,7 +28,7 @@ public class DataStore {
 
         // Initialize sample books
         Book[] sampleBooks = {
-                new Book("1", "The Great Gatsby", 25.99, 100),
+                new Book("1", "The Great Gatsby", 24.99, 100),
                 new Book("2", "To Kill a Mockingbird", 24.99, 150),
                 new Book("3", "1984", 18.99, 200),
                 new Book("4", "Pride and Prejudice", 15.99, 120),
