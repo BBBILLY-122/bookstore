@@ -30,7 +30,7 @@ public class DataStore {
         Book[] sampleBooks = {
                 new Book("1", "The Great Gatsby", 29.99, 100),
                 new Book("2", "To Kill a Mockingbird", 24.99, 150),
-                new Book("3", "1984", 18.99, 200),
+                new Book("3", "1984", 17.99, 200),
                 new Book("4", "Pride and Prejudice", 15.99, 120),
                 new Book("5", "The Catcher in the Rye", 21.99, 80),
                 new Book("6", "Brave New World", 17.99, 95),
